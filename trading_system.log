@@ -1,0 +1,132 @@
+2025-10-04 17:15:38,544 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:40,575 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:42,625 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:44,668 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:46,706 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:48,759 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:50,790 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:52,826 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:54,854 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:56,892 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:15:58,927 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:00,955 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:03,008 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:05,044 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:07,072 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:09,112 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:11,140 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:13,171 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:15,209 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:17,259 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:19,291 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:21,325 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:23,341 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:25,376 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:27,391 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:29,407 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 17:16:31,440 - ERROR - Database connection error: 2003: Can't connect to MySQL server on '127.0.0.1:3306' (Errno 10061: No connection could be made because the target machine actively refused it)
+2025-10-04 18:16:07,782 - INFO - package: mysql.connector.plugins
+2025-10-04 18:16:07,782 - INFO - plugin_name: caching_sha2_password
+2025-10-04 18:16:07,793 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-04 18:16:07,800 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:07,835 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:07,870 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:07,936 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:07,982 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,034 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,097 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,153 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,231 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,283 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,350 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,411 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,506 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,575 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,646 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,707 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,775 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,851 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,916 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:08,969 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,052 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,103 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,169 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,231 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,294 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,347 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:16:09,415 - ERROR - Database connection error: 1049 (42000): Unknown database 'trading_system'
+2025-10-04 18:21:21,982 - INFO - Database tables created successfully
+2025-10-04 18:21:22,057 - INFO - Initialized account with $100,000.00
+2025-10-04 18:21:22,149 - INFO - Added stock: KR - The Kroger Co.
+2025-10-04 18:21:22,239 - INFO - Added stock: GXC - SPDR S&P China ETF
+2025-10-04 18:21:22,334 - INFO - Added stock: PGJ - Invesco Golden Dragon China ETF
+2025-10-04 18:21:22,415 - INFO - Added stock: YINN - Direxion Daily FTSE China Bull 3X Shares
+2025-10-04 18:21:22,456 - INFO - Added stock: JPM - JPMorgan Chase & Co.
+2025-10-04 18:21:22,535 - INFO - Added stock: FXP - ProShares UltraShort FTSE China 50
+2025-10-04 18:21:22,600 - INFO - Added stock: XPP - ProShares Ultra FTSE China 50
+2025-10-04 18:21:22,650 - INFO - Added stock: CHN - The China Fund, Inc.
+2025-10-04 18:21:22,735 - INFO - Added stock: ERO - Ero Copper Corp.
+2025-10-04 18:21:22,818 - INFO - Added stock: RSP - Invesco S&P 500 Equal Weight ETF
+2025-10-04 18:21:22,883 - INFO - Added stock: OXY - Occidental Petroleum Corporation
+2025-10-04 18:21:22,957 - INFO - Added stock: VGK - Vanguard FTSE Europe ETF
+2025-10-04 18:21:23,050 - INFO - Added stock: MDT - Medtronic plc
+2025-10-04 18:21:23,144 - INFO - Added stock: BLK - BlackRock, Inc.
+2025-10-04 18:21:23,217 - INFO - Added stock: TSLA - Tesla, Inc.
+2025-10-04 18:21:23,300 - INFO - Added stock: AAPL - Apple Inc.
+2025-10-04 18:21:23,354 - INFO - Added stock: MSFT - Microsoft Corporation
+2025-10-04 18:21:23,417 - INFO - Added stock: GOOGL - Alphabet Inc.
+2025-10-04 18:21:23,500 - INFO - Added stock: AMZN - Amazon.com, Inc.
+2025-10-04 18:21:23,572 - INFO - Added stock: NVDA - NVIDIA Corporation
+2025-10-04 18:21:23,641 - INFO - Added stock: META - Meta Platforms, Inc.
+2025-10-04 18:21:23,734 - INFO - Added stock: NFLX - Netflix, Inc.
+2025-10-04 18:21:23,807 - INFO - Added stock: AMD - Advanced Micro Devices, Inc.
+2025-10-04 18:21:23,858 - INFO - Added stock: SPY - SPDR S&P 500 ETF
+2025-10-04 18:21:23,923 - INFO - Updating data for AAPL
+2025-10-04 18:21:37,279 - INFO - Stored 502 records for AAPL
+2025-10-04 18:21:37,301 - INFO - Updating data for AMD
+2025-10-04 18:21:38,834 - INFO - Stored 502 records for AMD
+2025-10-04 18:21:38,847 - INFO - Updating data for AMZN
+2025-10-04 18:21:39,948 - INFO - Stored 502 records for AMZN
+2025-10-04 18:21:39,952 - INFO - Updating data for BLK
+2025-10-04 18:21:41,066 - INFO - Stored 502 records for BLK
+2025-10-04 18:21:41,066 - INFO - Updating data for CHN
+2025-10-04 18:21:42,142 - INFO - Stored 502 records for CHN
+2025-10-04 18:21:42,149 - INFO - Updating data for ERO
+2025-10-04 18:21:42,954 - INFO - Stored 502 records for ERO
+2025-10-04 18:21:42,972 - INFO - Updating data for FXP
+2025-10-04 18:21:43,908 - INFO - Stored 502 records for FXP
+2025-10-04 18:21:43,917 - INFO - Updating data for GOOGL
+2025-10-04 18:21:44,796 - INFO - Stored 502 records for GOOGL
+2025-10-04 18:21:44,796 - INFO - Updating data for GXC
+2025-10-04 18:21:45,815 - INFO - Stored 502 records for GXC
+2025-10-04 18:21:45,815 - INFO - Updating data for JPM
+2025-10-04 18:21:46,767 - INFO - Stored 502 records for JPM
+2025-10-04 18:21:46,769 - INFO - Updating data for KR
+2025-10-04 18:21:47,586 - INFO - Stored 502 records for KR
+2025-10-04 18:21:47,590 - INFO - Updating data for MDT
+2025-10-04 18:21:48,433 - INFO - Stored 502 records for MDT
+2025-10-04 18:21:48,433 - INFO - Updating data for META
+2025-10-04 18:21:49,286 - INFO - Stored 502 records for META
+2025-10-04 18:21:49,289 - INFO - Updating data for MSFT
+2025-10-04 18:21:50,181 - INFO - Stored 502 records for MSFT
+2025-10-04 18:21:50,195 - INFO - Updating data for NFLX
+2025-10-04 18:21:50,984 - INFO - Stored 502 records for NFLX
+2025-10-04 18:21:50,988 - INFO - Updating data for NVDA
+2025-10-04 18:21:51,814 - INFO - Stored 502 records for NVDA
+2025-10-04 18:21:51,832 - INFO - Updating data for OXY
+2025-10-04 18:21:52,607 - INFO - Stored 502 records for OXY
+2025-10-04 18:21:52,611 - INFO - Updating data for PGJ
+2025-10-04 18:21:53,437 - INFO - Stored 502 records for PGJ
+2025-10-04 18:21:53,437 - INFO - Updating data for RSP
+2025-10-04 18:21:54,299 - INFO - Stored 502 records for RSP
+2025-10-04 18:21:54,299 - INFO - Updating data for SPY
+2025-10-04 18:21:56,847 - INFO - Stored 502 records for SPY
+2025-10-04 18:21:56,847 - INFO - Updating data for TSLA
+2025-10-04 18:21:59,007 - INFO - Stored 502 records for TSLA
+2025-10-04 18:21:59,007 - INFO - Updating data for VGK
+2025-10-04 18:21:59,816 - INFO - Stored 502 records for VGK
+2025-10-04 18:21:59,819 - INFO - Updating data for XPP
+2025-10-04 18:22:00,642 - INFO - Stored 502 records for XPP
+2025-10-04 18:22:00,642 - INFO - Updating data for YINN
+2025-10-04 18:22:01,448 - INFO - Stored 502 records for YINN
+2025-10-04 18:22:01,448 - INFO - Updated 24/24 stocks
