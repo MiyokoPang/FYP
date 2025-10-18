@@ -1,0 +1,34 @@
+{
+    "selected_stocks": [
+        "KR",
+        "AAPL",
+        "ERO",
+        "BLK",
+        "RSP",
+        "JPM",
+        "FXP",
+        "GOOGL",
+        "TSLA",
+        "MDT",
+        "AMZN",
+        "VGK",
+        "OXY",
+        "PGJ",
+        "GXC",
+        "NVDA",
+        "SPY",
+        "META",
+        "XPP",
+        "MSFT"
+    ],
+    "excluded_stocks": [
+        "YINN",
+        "NFLX",
+        "CHN",
+        "AMD"
+    ],
+    "selection_date": "2025-10-18 23:55:02",
+    "selection_criteria": "Top 20 by average directional accuracy from enhanced models",
+    "avg_dir_acc": 51.32899985,
+    "total_stocks_evaluated": 24
+}
