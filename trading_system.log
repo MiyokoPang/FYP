@@ -1,0 +1,140 @@
+2025-10-25 20:10:31,735 - INFO - package: mysql.connector.plugins
+2025-10-25 20:10:31,739 - INFO - plugin_name: caching_sha2_password
+2025-10-25 20:10:31,741 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-25 20:10:31,769 - INFO - Database tables created successfully
+2025-10-25 20:10:32,044 - INFO - Initialized account with $100,000.00
+2025-10-25 20:10:32,256 - INFO - Added stock: KR - The Kroger Co.
+2025-10-25 20:10:32,383 - INFO - Added stock: AAPL - Apple Inc.
+2025-10-25 20:10:32,490 - INFO - Added stock: ERO - Ero Copper Corp.
+2025-10-25 20:10:32,607 - INFO - Added stock: BLK - BlackRock, Inc.
+2025-10-25 20:10:32,741 - INFO - Added stock: RSP - Invesco S&P 500 Equal Weight ETF
+2025-10-25 20:10:32,894 - INFO - Added stock: JPM - JPMorgan Chase & Co.
+2025-10-25 20:10:33,067 - INFO - Added stock: FXP - ProShares UltraShort FTSE China 50
+2025-10-25 20:10:33,294 - INFO - Added stock: GOOGL - Alphabet Inc.
+2025-10-25 20:10:33,398 - INFO - Added stock: TSLA - Tesla, Inc.
+2025-10-25 20:10:33,536 - INFO - Added stock: MDT - Medtronic plc
+2025-10-25 20:10:33,704 - INFO - Added stock: AMZN - Amazon.com, Inc.
+2025-10-25 20:10:33,851 - INFO - Added stock: VGK - Vanguard FTSE Europe ETF
+2025-10-25 20:10:34,036 - INFO - Added stock: OXY - Occidental Petroleum Corporation
+2025-10-25 20:10:34,224 - INFO - Added stock: PGJ - Invesco Golden Dragon China ETF
+2025-10-25 20:10:34,402 - INFO - Added stock: GXC - SPDR S&P China ETF
+2025-10-25 20:10:34,572 - INFO - Added stock: NVDA - NVIDIA Corporation
+2025-10-25 20:10:34,745 - INFO - Added stock: SPY - SPDR S&P 500 ETF
+2025-10-25 20:10:34,950 - INFO - Added stock: META - Meta Platforms, Inc.
+2025-10-25 20:10:35,137 - INFO - Added stock: XPP - ProShares Ultra FTSE China 50
+2025-10-25 20:10:35,339 - INFO - Added stock: MSFT - Microsoft Corporation
+2025-10-25 20:10:35,487 - INFO - Updating data for AAPL
+2025-10-25 20:10:52,351 - INFO - Stored 502 records for AAPL
+2025-10-25 20:10:52,356 - INFO - Updating data for AMD
+2025-10-25 20:10:53,747 - INFO - Stored 502 records for AMD
+2025-10-25 20:10:53,753 - INFO - Updating data for AMZN
+2025-10-25 20:10:55,396 - INFO - Stored 502 records for AMZN
+2025-10-25 20:10:55,402 - INFO - Updating data for BLK
+2025-10-25 20:10:57,054 - INFO - Stored 502 records for BLK
+2025-10-25 20:10:57,064 - INFO - Updating data for CHN
+2025-10-25 20:10:58,704 - INFO - Stored 502 records for CHN
+2025-10-25 20:10:58,712 - INFO - Updating data for ERO
+2025-10-25 20:11:00,342 - INFO - Stored 502 records for ERO
+2025-10-25 20:11:00,344 - INFO - Updating data for FXP
+2025-10-25 20:11:01,797 - INFO - Stored 502 records for FXP
+2025-10-25 20:11:01,803 - INFO - Updating data for GOOGL
+2025-10-25 20:11:03,293 - INFO - Stored 502 records for GOOGL
+2025-10-25 20:11:03,298 - INFO - Updating data for GXC
+2025-10-25 20:11:04,730 - INFO - Stored 502 records for GXC
+2025-10-25 20:11:04,734 - INFO - Updating data for JPM
+2025-10-25 20:11:06,243 - INFO - Stored 502 records for JPM
+2025-10-25 20:11:06,247 - INFO - Updating data for KR
+2025-10-25 20:11:07,805 - INFO - Stored 502 records for KR
+2025-10-25 20:11:07,807 - INFO - Updating data for MDT
+2025-10-25 20:11:09,364 - INFO - Stored 502 records for MDT
+2025-10-25 20:11:09,368 - INFO - Updating data for META
+2025-10-25 20:11:10,830 - INFO - Stored 502 records for META
+2025-10-25 20:11:10,835 - INFO - Updating data for MSFT
+2025-10-25 20:11:12,354 - INFO - Stored 502 records for MSFT
+2025-10-25 20:11:12,360 - INFO - Updating data for NFLX
+2025-10-25 20:11:13,909 - INFO - Stored 502 records for NFLX
+2025-10-25 20:11:13,917 - INFO - Updating data for NVDA
+2025-10-25 20:11:15,303 - INFO - Stored 502 records for NVDA
+2025-10-25 20:11:15,308 - INFO - Updating data for OXY
+2025-10-25 20:11:16,679 - INFO - Stored 502 records for OXY
+2025-10-25 20:11:16,684 - INFO - Updating data for PGJ
+2025-10-25 20:11:17,737 - INFO - Stored 502 records for PGJ
+2025-10-25 20:11:17,743 - INFO - Updating data for RSP
+2025-10-25 20:11:19,008 - INFO - Stored 502 records for RSP
+2025-10-25 20:11:19,016 - INFO - Updating data for SPY
+2025-10-25 20:11:20,951 - INFO - Stored 502 records for SPY
+2025-10-25 20:11:20,957 - INFO - Updating data for TSLA
+2025-10-25 20:11:22,574 - INFO - Stored 502 records for TSLA
+2025-10-25 20:11:22,593 - INFO - Updating data for VGK
+2025-10-25 20:11:24,397 - INFO - Stored 502 records for VGK
+2025-10-25 20:11:24,404 - INFO - Updating data for XPP
+2025-10-25 20:11:26,094 - INFO - Stored 502 records for XPP
+2025-10-25 20:11:26,104 - INFO - Updating data for YINN
+2025-10-25 20:11:27,846 - INFO - Stored 502 records for YINN
+2025-10-25 20:11:27,854 - INFO - Updated 24/24 stocks
+2025-10-25 22:39:28,388 - INFO - Database tables created/verified successfully (with is_active column).
+2025-10-25 22:39:28,565 - INFO - Inserted baseline account record for yesterday.
+2025-10-25 22:39:28,567 - INFO - Account initialized with $100,000.00 for 2025-10-25 (and 2025-10-24 if needed).
+2025-10-25 22:39:28,767 - INFO - Stock activated: KR - The Kroger Co.
+2025-10-25 22:39:28,949 - INFO - Stock activated: AAPL - Apple Inc.
+2025-10-25 22:39:29,104 - INFO - Stock activated: ERO - Ero Copper Corp.
+2025-10-25 22:39:29,254 - INFO - Stock activated: BLK - BlackRock, Inc.
+2025-10-25 22:39:29,469 - INFO - Stock activated: RSP - Invesco S&P 500 Equal Weight ETF
+2025-10-25 22:39:29,669 - INFO - Stock activated: JPM - JPMorgan Chase & Co.
+2025-10-25 22:39:29,854 - INFO - Stock activated: FXP - ProShares UltraShort FTSE China 50
+2025-10-25 22:39:30,029 - INFO - Stock activated: GOOGL - Alphabet Inc.
+2025-10-25 22:39:30,159 - INFO - Stock activated: TSLA - Tesla, Inc.
+2025-10-25 22:39:30,350 - INFO - Stock activated: MDT - Medtronic plc
+2025-10-25 22:39:30,488 - INFO - Stock activated: AMZN - Amazon.com, Inc.
+2025-10-25 22:39:30,576 - INFO - Stock activated: VGK - Vanguard FTSE Europe ETF
+2025-10-25 22:39:30,674 - INFO - Stock activated: OXY - Occidental Petroleum Corporation
+2025-10-25 22:39:30,786 - INFO - Stock activated: PGJ - Invesco Golden Dragon China ETF
+2025-10-25 22:39:30,912 - INFO - Stock activated: GXC - SPDR S&P China ETF
+2025-10-25 22:39:31,042 - INFO - Stock activated: NVDA - NVIDIA Corporation
+2025-10-25 22:39:31,175 - INFO - Stock activated: SPY - SPDR S&P 500 ETF
+2025-10-25 22:39:31,309 - INFO - Stock activated: META - Meta Platforms, Inc.
+2025-10-25 22:39:31,379 - INFO - Stock activated: XPP - ProShares Ultra FTSE China 50
+2025-10-25 22:39:31,502 - INFO - Stock activated: MSFT - Microsoft Corporation
+2025-10-25 22:39:31,651 - INFO - Deactivated 0 old/unlisted stocks.
+2025-10-25 22:39:31,747 - INFO - Found 20 active stocks to update.
+2025-10-25 22:39:31,749 - INFO - Updating data for KR...
+2025-10-25 22:39:32,514 - INFO - Stored 502 new records for KR (out of 502 fetched).
+2025-10-25 22:39:32,529 - INFO - Updating data for AAPL...
+2025-10-25 22:39:32,930 - INFO - Stored 502 new records for AAPL (out of 502 fetched).
+2025-10-25 22:39:32,932 - INFO - Updating data for ERO...
+2025-10-25 22:39:33,217 - INFO - Stored 502 new records for ERO (out of 502 fetched).
+2025-10-25 22:39:33,224 - INFO - Updating data for BLK...
+2025-10-25 22:39:33,634 - INFO - Stored 502 new records for BLK (out of 502 fetched).
+2025-10-25 22:39:33,637 - INFO - Updating data for RSP...
+2025-10-25 22:39:33,852 - INFO - Stored 502 new records for RSP (out of 502 fetched).
+2025-10-25 22:39:33,852 - INFO - Updating data for JPM...
+2025-10-25 22:39:34,242 - INFO - Stored 502 new records for JPM (out of 502 fetched).
+2025-10-25 22:39:34,247 - INFO - Updating data for FXP...
+2025-10-25 22:39:34,532 - INFO - Stored 502 new records for FXP (out of 502 fetched).
+2025-10-25 22:39:34,536 - INFO - Updating data for GOOGL...
+2025-10-25 22:39:34,819 - INFO - Stored 502 new records for GOOGL (out of 502 fetched).
+2025-10-25 22:39:34,827 - INFO - Updating data for TSLA...
+2025-10-25 22:39:35,049 - INFO - Stored 502 new records for TSLA (out of 502 fetched).
+2025-10-25 22:39:35,053 - INFO - Updating data for MDT...
+2025-10-25 22:39:35,477 - INFO - Stored 502 new records for MDT (out of 502 fetched).
+2025-10-25 22:39:35,482 - INFO - Updating data for AMZN...
+2025-10-25 22:39:35,696 - INFO - Stored 502 new records for AMZN (out of 502 fetched).
+2025-10-25 22:39:35,700 - INFO - Updating data for VGK...
+2025-10-25 22:39:35,965 - INFO - Stored 502 new records for VGK (out of 502 fetched).
+2025-10-25 22:39:35,969 - INFO - Updating data for OXY...
+2025-10-25 22:39:36,332 - INFO - Stored 502 new records for OXY (out of 502 fetched).
+2025-10-25 22:39:36,332 - INFO - Updating data for PGJ...
+2025-10-25 22:39:36,636 - INFO - Stored 502 new records for PGJ (out of 502 fetched).
+2025-10-25 22:39:36,638 - INFO - Updating data for GXC...
+2025-10-25 22:39:36,886 - INFO - Stored 502 new records for GXC (out of 502 fetched).
+2025-10-25 22:39:36,906 - INFO - Updating data for NVDA...
+2025-10-25 22:39:37,219 - INFO - Stored 502 new records for NVDA (out of 502 fetched).
+2025-10-25 22:39:37,221 - INFO - Updating data for SPY...
+2025-10-25 22:39:37,546 - INFO - Stored 502 new records for SPY (out of 502 fetched).
+2025-10-25 22:39:37,550 - INFO - Updating data for META...
+2025-10-25 22:39:37,801 - INFO - Stored 502 new records for META (out of 502 fetched).
+2025-10-25 22:39:37,802 - INFO - Updating data for XPP...
+2025-10-25 22:39:38,113 - INFO - Stored 502 new records for XPP (out of 502 fetched).
+2025-10-25 22:39:38,119 - INFO - Updating data for MSFT...
+2025-10-25 22:39:38,458 - INFO - Stored 502 new records for MSFT (out of 502 fetched).
+2025-10-25 22:39:38,463 - INFO - Successfully updated 20/20 active stocks

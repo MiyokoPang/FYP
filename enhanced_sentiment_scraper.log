@@ -1,0 +1,84 @@
+2025-10-25 15:28:35,603 - INFO - Loading FinBERT model...
+2025-10-25 15:30:12,428 - INFO - FinBERT loaded successfully on cpu
+2025-10-25 15:30:12,914 - INFO - package: mysql.connector.plugins
+2025-10-25 15:30:12,918 - INFO - plugin_name: caching_sha2_password
+2025-10-25 15:30:12,923 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-25 15:30:13,059 - INFO - Enhanced sentiment tables created successfully
+2025-10-25 15:39:06,920 - INFO - Reddit API initialized successfully
+2025-10-25 15:39:08,535 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:09,043 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:09,456 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:09,760 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:12,558 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:12,905 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:15,441 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:15,738 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 15:39:15,831 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 19:34:09,273 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 19:34:09,746 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 19:34:10,144 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 19:34:10,406 - ERROR - Error inserting Reddit post: 1054 (42S22): Unknown column 'textblob_score' in 'field list'
+2025-10-25 19:44:14,291 - INFO - Loading FinBERT model...
+2025-10-25 19:44:16,940 - INFO - FinBERT loaded successfully on cpu
+2025-10-25 19:44:17,065 - INFO - Enhanced sentiment tables created successfully
+2025-10-25 19:53:11,659 - INFO - Reddit API initialized successfully
+2025-10-26 00:25:51,384 - INFO - Loading FinBERT model...
+2025-10-26 00:27:39,778 - INFO - FinBERT loaded successfully on cpu
+2025-10-26 00:27:40,092 - INFO - package: mysql.connector.plugins
+2025-10-26 00:27:40,095 - INFO - plugin_name: caching_sha2_password
+2025-10-26 00:27:40,098 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-26 00:27:40,194 - INFO - Executing CREATE IF NOT EXISTS for reddit_sentiment...
+2025-10-26 00:27:40,422 - INFO - Executing CREATE IF NOT EXISTS for news_sentiment...
+2025-10-26 00:27:40,439 - INFO - Executing CREATE IF NOT EXISTS for daily_sentiment...
+2025-10-26 00:27:40,458 - INFO - Initial table creation check complete.
+2025-10-26 00:27:40,459 - INFO - Updating daily_sentiment schema...
+2025-10-26 00:27:40,465 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS reddit_textblob_avg DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,467 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS reddit_finbert_avg DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,471 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS reddit_combined_avg DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,474 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS reddit_post_count INT DEFAULT 0' at line 1
+2025-10-26 00:27:40,479 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS news_textblob_avg DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,484 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS news_finbert_avg DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,489 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS news_combined_avg DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,495 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS news_article_count INT DEFAULT 0' at line 1
+2025-10-26 00:27:40,502 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS overall_textblob DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,508 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS overall_finbert DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,516 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS overall_combined DECIMAL(5,4)' at line 1
+2025-10-26 00:27:40,523 - WARNING - Warning altering table (non-duplicate error): 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS total_mentions INT DEFAULT 0' at line 1
+2025-10-26 00:27:40,592 - INFO - Enhanced sentiment tables created/updated successfully
+2025-10-26 01:01:00,803 - INFO - Loading FinBERT model...
+2025-10-26 01:01:02,921 - INFO - FinBERT loaded successfully on cpu
+2025-10-26 01:01:03,041 - INFO - Executing CREATE IF NOT EXISTS for reddit_sentiment...
+2025-10-26 01:01:03,089 - INFO - Executing CREATE IF NOT EXISTS for news_sentiment...
+2025-10-26 01:01:03,097 - INFO - Executing CREATE IF NOT EXISTS for daily_sentiment...
+2025-10-26 01:01:03,115 - INFO - Initial table creation check complete.
+2025-10-26 01:01:03,118 - INFO - Checking/Updating daily_sentiment schema...
+2025-10-26 01:01:03,197 - INFO - Existing columns in daily_sentiment: {'overall_combined', 'reddit_textblob_avg', 'news_combined_avg', 'news_article_count', 'reddit_post_count', 'total_mentions', 'date', 'created_at', 'news_finbert_avg', 'reddit_finbert_avg', 'symbol', 'id', 'news_textblob_avg', 'overall_finbert', 'overall_textblob', 'reddit_combined_avg'}
+2025-10-26 01:01:03,206 - INFO - daily_sentiment schema check/update complete.
+2025-10-26 01:01:03,206 - INFO - Enhanced sentiment tables created/updated successfully
+2025-10-26 01:01:12,723 - INFO - Reddit API initialized successfully
+2025-10-26 01:01:12,834 - INFO - Scraping 8 subreddits: ['stocks', 'investing', 'wallstreetbets', 'SecurityAnalysis', 'StockMarket', 'finance', 'options', 'daytrading']
+2025-10-26 01:01:12,834 - ERROR - General Error scraping r/stocks for AAPL: safe_print() got an unexpected keyword argument 'end'
+2025-10-26 01:01:17,836 - ERROR - General Error scraping r/investing for AAPL: safe_print() got an unexpected keyword argument 'end'
+2025-10-26 01:01:22,846 - ERROR - General Error scraping r/wallstreetbets for AAPL: safe_print() got an unexpected keyword argument 'end'
+2025-10-26 01:05:23,276 - INFO - Loading FinBERT model...
+2025-10-26 01:05:25,055 - INFO - FinBERT loaded successfully on cpu
+2025-10-26 01:05:25,105 - INFO - Executing CREATE IF NOT EXISTS for reddit_sentiment...
+2025-10-26 01:05:25,121 - INFO - Executing CREATE IF NOT EXISTS for news_sentiment...
+2025-10-26 01:05:25,128 - INFO - Executing CREATE IF NOT EXISTS for daily_sentiment...
+2025-10-26 01:05:25,135 - INFO - Initial table creation check complete.
+2025-10-26 01:05:25,139 - INFO - Checking/Updating daily_sentiment schema...
+2025-10-26 01:05:25,155 - INFO - Existing columns in daily_sentiment: {'overall_combined', 'reddit_textblob_avg', 'news_combined_avg', 'news_article_count', 'reddit_post_count', 'total_mentions', 'date', 'created_at', 'news_finbert_avg', 'reddit_finbert_avg', 'symbol', 'id', 'news_textblob_avg', 'overall_finbert', 'overall_textblob', 'reddit_combined_avg'}
+2025-10-26 01:05:25,155 - INFO - daily_sentiment schema check/update complete.
+2025-10-26 01:05:25,155 - INFO - Enhanced sentiment tables created/updated successfully
+2025-10-26 01:05:32,742 - INFO - Reddit API initialized successfully
+2025-10-26 01:05:32,795 - INFO - Scraping 8 subreddits: ['stocks', 'investing', 'wallstreetbets', 'SecurityAnalysis', 'StockMarket', 'finance', 'options', 'daytrading']
+2025-10-26 01:13:46,053 - INFO - Finished Reddit scrape. Saved 148 new posts overall.
+2025-10-26 01:20:59,695 - INFO - Finished News scrape. Saved 109 new articles overall.
+2025-10-26 01:23:05,738 - INFO - Aggregating daily sentiment for date: 2025-10-26
+2025-10-26 01:23:06,139 - INFO - Finished aggregation for 2025-10-26. Processed 20/20 symbols.
+2025-10-26 01:23:06,143 - INFO - Aggregating daily sentiment for date: 2025-10-25
+2025-10-26 01:23:06,605 - INFO - Finished aggregation for 2025-10-25. Processed 20/20 symbols.
+2025-10-26 01:23:10,736 - INFO - Aggregating daily sentiment for date: 2025-10-26
+2025-10-26 01:23:10,888 - INFO - Finished aggregation for 2025-10-26. Processed 20/20 symbols.
+2025-10-26 01:23:10,890 - INFO - Aggregating daily sentiment for date: 2025-10-25
+2025-10-26 01:23:11,049 - INFO - Finished aggregation for 2025-10-25. Processed 20/20 symbols.
